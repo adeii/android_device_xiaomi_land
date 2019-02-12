@@ -27,8 +27,8 @@ PRODUCT_PACKAGES += \
 
 # Kernel
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := land
-PRODUCT_NAME := full_land
-PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi 3S
-PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_DEVICE := ldn
+PRODUCT_NAME := full_ldn
+PRODUCT_BRAND := Huawei
+PRODUCT_MODEL := London
+PRODUCT_MANUFACTURER := Huawei
