@@ -5,6 +5,8 @@ Huawei Y7 2018/Y7 Prime 2018/NOVA 2 LITE/LDN-LX2/LDN-L21/LDN-TL10/
 Honor 7C/7A/LDN-L29 etc. (codenamed "lnd" or "London")
 are with similar characteristics as Xiaomi Redmi 3S/Prime/3X, so use official TWRP device tree for port.
 
+Interesting: https://gitlab.com/OrangeFox/f2fs-tools/commits/fox_8.1
+
 ## Device specifications
 
 Basic   | Spec Sheet
